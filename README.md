@@ -188,4 +188,3 @@ src/
 
 - Frontend Mentor - [@Ayokanmi-Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
 
-# Frontend-Quiz-app
