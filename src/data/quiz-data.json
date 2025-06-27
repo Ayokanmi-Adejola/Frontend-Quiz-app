@@ -1,0 +1,432 @@
+{
+  "quizzes": [
+    {
+      "title": "HTML",
+      "icon": "html",
+      "color": "orange",
+      "questions": [
+        {
+          "question": "What does HTML stand for?",
+          "options": [
+            "Hyper Trainer Marking Language",
+            "Hyper Text Marketing Language", 
+            "Hyper Text Markup Language",
+            "Hyper Text Markup Leveler"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which of the following is the correct structure for an HTML document?",
+          "options": [
+            "<html><head></head><body></body></html>",
+            "<head><html></html><body></body></head>",
+            "<body><head></head><html></html></body>",
+            "<html><body></body><head></head></html>"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Which HTML element is used to specify a footer for a document or section?",
+          "options": [
+            "<bottom>",
+            "<section>",
+            "<footer>",
+            "<foot>"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the correct HTML element for playing video files?",
+          "options": [
+            "<movie>",
+            "<video>",
+            "<media>",
+            "<film>"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which attribute is used to provide an alternative text for an image?",
+          "options": [
+            "title",
+            "alt",
+            "src",
+            "href"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which HTML element defines navigation links?",
+          "options": [
+            "<navigate>",
+            "<navigation>",
+            "<nav>",
+            "<navlinks>"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What does the <canvas> element allow you to do?",
+          "options": [
+            "Create tables",
+            "Draw graphics",
+            "Play audio",
+            "Display forms"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which HTML attribute specifies an input field must be filled out?",
+          "options": [
+            "placeholder",
+            "validate",
+            "required",
+            "important"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the correct HTML for creating a hyperlink?",
+          "options": [
+            "<a>http://www.example.com</a>",
+            "<a href=\"http://www.example.com\">Example</a>",
+            "<a url=\"http://www.example.com\">Example</a>",
+            "<link>http://www.example.com</link>"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which HTML element is used to display a scalar measurement within a range?",
+          "options": [
+            "<gauge>",
+            "<measure>",
+            "<meter>",
+            "<range>"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "title": "CSS",
+      "icon": "css",
+      "color": "blue", 
+      "questions": [
+        {
+          "question": "What does CSS stand for?",
+          "options": [
+            "Creative Style Sheets",
+            "Cascading Style Sheets",
+            "Computer Style Sheets",
+            "Colorful Style Sheets"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+          "options": [
+            "In the <body> section",
+            "At the end of the document",
+            "In the <head> section",
+            "At the top of the document"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which HTML tag is used to define an internal style sheet?",
+          "options": [
+            "<script>",
+            "<headStyle>",
+            "<style>",
+            "<css>"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "How do you insert a comment in a CSS file?",
+          "options": [
+            "// this is a comment",
+            "<!-- this is a comment -->",
+            "/* this is a comment */",
+            "' this is a comment"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which property is used to change the background color?",
+          "options": [
+            "color",
+            "bgcolor",
+            "background-color",
+            "background"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "How do you add a background color for all <h1> elements?",
+          "options": [
+            "all.h1 {background-color:#FFFFFF;}",
+            "h1.all {background-color:#FFFFFF;}",
+            "h1 {background-color:#FFFFFF;}",
+            "#h1 {background-color:#FFFFFF;}"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which CSS property is used to change the text color of an element?",
+          "options": [
+            "text-color",
+            "foreground-color",
+            "color",
+            "font-color"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which CSS property controls the text size?",
+          "options": [
+            "font-style",
+            "text-size",
+            "font-size",
+            "text-style"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the correct CSS syntax for making all the <p> elements bold?",
+          "options": [
+            "p {text-size:bold;}",
+            "p {font-weight:bold;}",
+            "<p style=\"text-size:bold;\">",
+            "<p style=\"font-size:bold;\">"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "How do you display hyperlinks without an underline?",
+          "options": [
+            "a {text-decoration:none;}",
+            "a {underline:none;}",
+            "a {decoration:no-underline;}",
+            "a {text-decoration:no-underline;}"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "title": "JavaScript",
+      "icon": "javascript",
+      "color": "yellow",
+      "questions": [
+        {
+          "question": "Which language runs in a web browser?",
+          "options": [
+            "Java",
+            "C",
+            "Python",
+            "JavaScript"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "What should appear at the very end of your JavaScript?",
+          "options": [
+            "The END statement",
+            "The <script> tag",
+            "Nothing",
+            "The STOP statement"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the correct way to write a JavaScript array?",
+          "options": [
+            "var colors = (1:\"red\", 2:\"green\", 3:\"blue\")",
+            "var colors = [\"red\", \"green\", \"blue\"]",
+            "var colors = \"red\", \"green\", \"blue\"",
+            "var colors = 1 = (\"red\"), 2 = (\"green\"), 3 = (\"blue\")"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "How do you write \"Hello World\" in an alert box?",
+          "options": [
+            "alertBox(\"Hello World\");",
+            "msg(\"Hello World\");",
+            "alert(\"Hello World\");",
+            "msgBox(\"Hello World\");"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "How do you create a function in JavaScript?",
+          "options": [
+            "function myFunction() {}",
+            "function = myFunction() {}",
+            "function:myFunction() {}",
+            "create myFunction() {}"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "How do you call a function named \"myFunction\"?",
+          "options": [
+            "call function myFunction()",
+            "call myFunction()",
+            "myFunction()",
+            "Call.myFunction()"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "How can you add a comment in JavaScript?",
+          "options": [
+            "//This is a comment",
+            "'This is a comment",
+            "<!--This is a comment-->",
+            "**This is a comment**"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "What is the correct way to write a JavaScript object?",
+          "options": [
+            "var person = {firstName:\"John\", lastName:\"Doe\"}",
+            "var person = (firstName:\"John\", lastName:\"Doe\")",
+            "var person = firstName = \"John\", lastName = \"Doe\"",
+            "var person = [firstName:\"John\", lastName:\"Doe\"]"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Which event occurs when the user clicks on an HTML element?",
+          "options": [
+            "onchange",
+            "onclick",
+            "onmouseclick",
+            "onmouseover"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "How do you declare a JavaScript variable?",
+          "options": [
+            "var carName;",
+            "variable carName;",
+            "v carName;",
+            "declare carName;"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "title": "Accessibility",
+      "icon": "accessibility",
+      "color": "purple",
+      "questions": [
+        {
+          "question": "What does WCAG stand for?",
+          "options": [
+            "Web Content Accessibility Guidelines",
+            "Web Compliance Accessibility Guide",
+            "Website Content Accessibility Guidelines",
+            "Web Content Access Guide"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Which HTML attribute is most important for screen reader users?",
+          "options": [
+            "title",
+            "alt",
+            "class",
+            "id"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What is the purpose of the 'role' attribute in HTML?",
+          "options": [
+            "To style elements",
+            "To define the element's purpose for assistive technologies",
+            "To group elements",
+            "To validate HTML"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which color contrast ratio is required for normal text under WCAG AA?",
+          "options": [
+            "3:1",
+            "4.5:1",
+            "7:1",
+            "2:1"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What does ARIA stand for?",
+          "options": [
+            "Accessible Rich Internet Applications",
+            "Advanced Responsive Internet Applications",
+            "Accessible Responsive Internet Applications",
+            "Advanced Rich Internet Applications"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Which HTML element should be used to wrap the main content of a page?",
+          "options": [
+            "<div>",
+            "<section>",
+            "<main>",
+            "<content>"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the correct way to hide content from screen readers?",
+          "options": [
+            "display: none;",
+            "visibility: hidden;",
+            "aria-hidden=\"true\"",
+            "opacity: 0;"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which heading structure is most accessible?",
+          "options": [
+            "Multiple <h1> tags per page",
+            "Sequential heading levels (h1, h2, h3...)",
+            "Only <h1> and <h6> tags",
+            "Random heading levels"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What is the minimum target size for clickable elements?",
+          "options": [
+            "24px × 24px",
+            "44px × 44px", 
+            "32px × 32px",
+            "48px × 48px"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which ARIA attribute describes an element?",
+          "options": [
+            "aria-label",
+            "aria-describedby",
+            "aria-labelledby",
+            "aria-hidden"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
