@@ -188,3 +188,10 @@ src/
 
 - Frontend Mentor - [@Ayokanmi-Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
 
+<<<<<<< HEAD
+=======
+# Frontend-Quiz-app
+# quiz
+# quiz
+>>>>>>> dbcf8ea (first commit)
+# quiz
