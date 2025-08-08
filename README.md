@@ -58,7 +58,7 @@ This project fulfills all Frontend Mentor challenge requirements:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/frontend-quiz-app.git
+   git clone https://github.com/Ayokanmi-Adejola/frontend-quiz-app.git
    cd frontend-quiz-app
    ```
 
@@ -183,16 +183,3 @@ src/
 - **Challenge by**: [Frontend Mentor](https://www.frontendmentor.io)
 - **Icons**: [Lucide React](https://lucide.dev)
 - **Images**: [Unsplash](https://unsplash.com)
-
-## Author
-
-- Frontend Mentor - [@Ayokanmi-Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
-
-<<<<<<< HEAD
-=======
-# Frontend-Quiz-app
-# quiz
-# quiz
->>>>>>> dbcf8ea (first commit)
-# quiz
-# frontend
